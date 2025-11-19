@@ -114,9 +114,9 @@ namespace Assignment2
 
         public Student()
         {
-            Name = "Unknown";
-            RollNo = 0;
-            Marks = 0;
+            Name = "Mohit";
+            RollNo = 24;
+            Marks = 99;
         }
 
         public Student(string name, int rollNo)
